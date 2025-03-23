@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Arjun Kaliyath 👋
 
-<!--
-**ArjunKaliyath/ArjunKaliyath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact Me
+- Email: [kaliyatharjun@gmail.com](mailto:kaliyatharjun@gmail.com)
+- LinkedIn: [linkedin.com/arjun-kaliyath](https://linkedin.com/arjun-kaliyath)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+Experienced Salesforce developer with 4+ years at Accenture, now expanding my expertise into backend engineering, frontend development, and machine learning as a CS graduate student. I enjoy building scalable applications and exploring new technologies that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Working With
+- **Backend**: Golang, NodeJS, Python/Flask, Java
+- **Frontend**: React, JavaScript, HTML/CSS, Lightning Web Components
+- **Databases**: PostgreSQL, MongoDB
+- **Tools**: Docker, AWS, GitHub Actions
